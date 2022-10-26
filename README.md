@@ -11,3 +11,6 @@ soon to be added:
 more games
 html files?
 more stuff idk
+
+
+star this repo is possible, i need stars
