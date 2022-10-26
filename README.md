@@ -8,9 +8,9 @@ If you would like to suggest games to be added, add me on discord at FireStreake
 
 
 soon to be added:
-more games
-html files?
-more stuff idk
+more games   
+html files?   
+more stuff idk   
 
 
 star this repo is possible, i need stars
