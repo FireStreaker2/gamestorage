@@ -7,13 +7,13 @@ if you would also like to report any issues/bugs with the games you can still co
 
 
 soon to be added:   
-more games   
+more games/roms   
 html files?   
 more stuff idk   
 
 
 
-star this repo is possible, i need stars
+star this repo if possible, i need stars
 
 
 the purpose of this repo:   
