@@ -2,7 +2,8 @@
 
 Game storage for different types of games, will be updated as frequently as possible 
 
-If you would like to suggest games to be added, add me on discord at FireStreaker2#0001 or contact me IRL.
+If you would like to suggest games to be added, add me on discord at FireStreaker2#0001 or contact me IRL.       
+if you would also like to report any issues/bugs with the games you can still contact me on discord or irl
 
 
 soon to be added:   
